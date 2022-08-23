@@ -1,0 +1,9 @@
+<suite name="Parallel-CrossBrowser Test Suite" parallel="tests" thread-count="2">
+    <test name="in Chrome Test">
+        <parameter name="browser" value="chrome">
+            <classes>
+
+            </classes>
+        </parameter>
+    </test>
+</suite>

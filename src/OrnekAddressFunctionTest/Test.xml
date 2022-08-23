@@ -1,0 +1,8 @@
+<suite name="AddAddress Funtion Test">
+    <test name="Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="OrnekAddressFunctionTest.AddAddressTest"></class>
+        </classes>
+    </test>
+</suite>
